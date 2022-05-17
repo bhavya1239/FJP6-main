@@ -1,3 +1,4 @@
+// Script of page
 let inputTag = document.querySelector("input");
 let ulTag = document.querySelector("ul");
 
